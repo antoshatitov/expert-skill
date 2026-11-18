@@ -1,6 +1,6 @@
 interface:
-  display_name: "Эксперт — Astra High"
+  display_name: "Эксперт — Astra 6.2 High"
   short_description: "Независимое второе мнение по текущей задаче"
-  default_prompt: "Используй $expert для независимой проверки текущего решения; покажи заключение Astra High и остановись."
+  default_prompt: "Используй $expert для независимой проверки текущего решения; покажи заключение Astra 6.2 High и остановись."
 policy:
   allow_implicit_invocation: false
